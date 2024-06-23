@@ -1,7 +1,6 @@
-# Website Profile Stikes Kartasa
+# Website Rt Management
 
-Website Profile Stikes Kartasa adalah website profile dari "STIKES Karya Putra Bangsa Tulungagung". 
-Yang ditujukan untuk mempromosikan "STIKES Karya Putra Bangsa Tulungagung".
+Website Rt Management adalah website untuk memanagement Iuran RT.
 
 Proyek ini dibangun dengan menggunakan Laravel, Boostrap, dan Mysql untuk manajemen database.
 ## Teknologi Yang Digunakan 
@@ -20,13 +19,13 @@ Pastikan Anda telah menginstal [Laravel](https://laravel.com/) dan [Composer](ht
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/faisal-gif/stikes-kartasa.git
+   git clone https://github.com/faisal-gif/rt_management.git
    ```
    
 2. Masuk ke direktori proyek:
 
    ```bash
-   cd stikes-kartasa
+   cd rt_management
    ```
 
 3. Salin file .env.example menjadi .env dan sesuaikan pengaturan database:
